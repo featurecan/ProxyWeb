@@ -118,7 +118,7 @@ ProxyWeb/
 
 ## 🤝 İletişim & Yapımcı
 
-- **Geliştirici:** `d'range`
+- **Geliştirici:** `feature\`
 - **Discord:** `qc2n`
 
 ---
